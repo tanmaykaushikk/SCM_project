@@ -1,0 +1,334 @@
+[200~@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+body{
+	    /* min-height: 100vh; */
+	    /* margin: none; */
+	    background-color: black;
+	        margin: 0;
+		    font-family: 'Poppins', sans-serif;
+	    }
+	    .container{
+		        border: 2px solid rgb(43, 39, 39);;
+			    display: flex;
+			         background-color: rgb(43, 39, 39);
+			 }
+			 .icon{
+
+				     list-style-position: outside;
+				         list-style-type: none;
+					     text-decoration: none;
+					         font-size: 20px;
+						     /* background-color: black; */
+						     color: blanchedalmond;
+						         padding: none;
+
+						 }
+						 .sidebar{
+							     border: 2px solid rgb(43, 39, 39);;
+							         background-color: rgb(43, 39, 39);
+								     margin-top: 0;
+							     }
+							     .navbar{
+								         display: flex;
+									     border: 2px solid rgb(43, 39, 39);;
+									         height: 32px;
+										     width: 100%;
+										         text-align: end;
+											     background-color: rgb(43, 39, 39);
+											         
+
+										     }
+										     .navicon{
+											         /* text-align: end; */
+											         font-weight: bold;
+												     list-style-position: outside;
+												         list-style-type: none;
+													     text-decoration: none;
+													         font-size: 20px;
+														     margin-right: 20px;
+														         color: blanchedalmond;
+															     padding: none;
+
+														     }
+														     #login{
+															         font-weight: bold;
+																     list-style-position: outside;
+																         list-style-type: none;
+																	     text-decoration: none;
+																	         font-size: 20px;
+																		     margin-right: 40px;
+																		         margin-left: 400px;
+																			     color: blanchedalmond;
+																			         /* padding: none; */
+																			         width: 430px;
+
+																				     
+																			 }
+																			 #upgrade{
+																				     font-weight: bold;
+																				         list-style-position: outside;
+																					     list-style-type: none;
+																					         text-decoration: none;
+																						     font-size: 20px;
+																						         margin-right: 20px;
+																							     color: blanchedalmond;
+																							         /* padding: none; */
+
+																						     }
+																						     .search{
+																							         border: 2px solid rgb(43, 39, 39);;
+																								     width: 700px;
+																								         height: 30px;
+																								 }
+																								 .searchbar{
+																									     width: 700px;
+																									         height: 35px;
+																										     background-color: yellow;
+																										         color: red;
+																											     margin-left: 80px;
+																											         border-radius: 10px;
+																											 }
+																											 .heading{
+																												     color: darkgray;
+																											     }
+																											     .topcharts{
+																												         height: 400px;
+																													     width: 230px;
+																													         border: 2px solid black;
+																														     display: flex;
+																														         background-color: rgb(43, 39, 39);
+																															     color: darkgray;
+
+																															     /* }
+																															      * .topcharts:hover{
+																															      *     transform: scale(1.2);
+																															      *         transition: .5s; */
+}
+.image{
+	    height: 290px;
+	        width: 230px;
+		    
+	}
+	.image:hover{
+		    opacity: 0.25;
+	    }
+	    .play_btn{
+		        border-radius: 15px;
+			    background-color: darkgreen;
+			        height: 38px;
+				    width: 93px;
+				        margin-left: 10px;
+				}
+				.excuses{
+					    height: 400px;
+					        width: 230px;
+						    border: 2px solid black;
+						        margin-left: 70px;
+							    background-color: rgb(43, 39, 39);
+
+						    }
+						    .excuses:hover{
+							        transform: scale(1.2);
+								    transition: .5s;
+
+							    }
+							    .doobey{
+								        height: 400px;
+									    width: 230px;
+									        border: 2px solid black;
+										    margin-left: 70px;
+										        background-color: rgb(43, 39, 39);
+
+										}
+										.doobey:hover{
+											    transform: scale(1.2);
+											        transition: .5s;
+
+											}
+
+
+											.tamasha{
+												    height: 400px;
+												        width: 230px;
+													    border: 2px solid black;
+													        margin-left: 70px;
+														    background-color: rgb(43, 39, 39);
+
+													    }
+													    .tamasha:hover{
+														        transform: scale(1.2);
+															    transition: .5s;
+															        /* transition: ease-in-out; */
+
+														    }
+														    .shershaah{
+															        height: 400px;
+																    width: 230px;
+																        border: 2px solid black;
+																	    margin-left: 70px;
+																	        background-color: rgb(43, 39, 39);
+
+
+																	}
+																	.shershaah:hover{
+																		    transform: scale(1.2);
+																		        transition: .5s;
+
+																		}
+																		.retro{
+																			    height: 400px;
+																			        width: 230px;
+																				    border: 2px solid black;
+																				        display: flex;
+																					    background-color: rgb(43, 39, 39);
+																					        color: darkgray;
+																					}
+																					.omshantiom{
+																						    height: 400px;
+																						        width: 230px;
+																							    border: 2px solid black;
+																							        margin-left: 70px;
+																								    background-color: rgb(43, 39, 39);
+
+
+																							    }
+																							    .omshantiom:hover{
+																								        transform: scale(1.2);
+																									    transition: .5s;
+
+																								    }
+																								    .kgf{
+																									        height: 400px;
+																										    width: 230px;
+																										        border: 2px solid black;
+																											    margin-left: 70px;
+																											        background-color: rgb(43, 39, 39);
+
+
+																											}
+																											.kgf:hover{
+																												    transform: scale(1.2);
+																												        transition: .5s;
+
+																												}
+																												.rrr{
+																													    height: 400px;
+																													        width: 230px;
+																														    border: 2px solid black;
+																														        margin-left: 70px;
+																															    background-color: rgb(43, 39, 39);
+
+																														    }
+																														    .rrr:hover{
+																															        transform: scale(1.2);
+																																    transition: .5s;
+
+																															    }
+																															    .sooryavanshi{
+																																        height: 400px;
+																																	    width: 230px;
+																																	        border: 2px solid black;
+																																		    margin-left: 70px;
+																																		        background-color: rgb(43, 39, 39);
+																																		}
+																																		.sooryavanshi:hover{
+																																			    transform: scale(1.2);
+																																			        transition: .5s;
+
+																																			}
+																																			.artist{
+																																				    height: 400px;
+																																				        width: 230px;
+																																					    /* border: 2px solid black; */
+																																					    display: flex;
+
+																																				    }
+																																				    .pritam{
+																																					        height: 400px;
+																																						    width: 230px;
+																																						        /* border: 2px solid black; */
+																																						        margin-left: 70px;
+																																							    /* border-radius: 100px; */
+
+																																						}
+																																						/* .artistimg{
+																																						 *     border-radius: 100px;
+																																						 *         height: 200px;
+																																						 *             width: 200px;
+																																						 *                 margin: left 70px;  
+																																						 *                     
+																																						 *                     } */
+/* .ap{
+ *
+ * } */
+.artist_heading{
+	    color: darkgray;
+    }
+    .artistimg{
+	        display: flex;
+	}
+	.artist_circle{
+		    border-radius: 100px;
+		        height: 200px;
+			    width: 200px;
+			        margin-left: 70px;
+			}
+			.artist_circle:hover{
+				    transform: scale(1.2);
+				        transition: .5s;
+
+				}
+				.artist_clickname{
+					    text-align: center;
+					        text-decoration: none;
+						    margin-left: 100px;
+						        margin-right: 55px;
+							    font-size: 20px;
+							        /* color: black; */
+							        color: darkgray;
+								    
+							}
+							.artist_name{
+								    display: flex;
+							    }
+							        
+							        
+							    /* .stickyfooter{
+							     *     position: sticky;
+							     *         top: 100%;
+							     *             width: 100%;
+							     *                 background-color: black;
+							     *                     margin-top: auto;
+							     *                         
+							     *                         } */
+
+.mood_heading{
+	    color: darkgray;
+
+    }
+    .mood_name{
+	        display: flex;
+	}
+	.mood_img{
+		    height: 200px;
+		        width: 200px;
+			    margin-left: 70px;
+
+		    }
+		    .mood_img:hover{
+			        transform: scale(1.2);
+				    transition: .5s;
+
+			    }
+			    .mood_title{
+				        display: flex;
+				}
+				.mood_title_class{
+					    text-align: center;
+					        text-decoration: none;
+						    margin-left: 130px;
+						        margin-right: 55px;
+							    font-size: 20px;
+							        /* color: black; */
+							        color: darkgray;
+
+							}

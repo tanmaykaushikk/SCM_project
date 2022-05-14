@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/index_nav.css">
+	<link rel="stylesheet" href="css/our_team.css">
+    <link rel="icon" type="image/x-icon" href="img/logo.jpeg">
+</head>
+<body>
+     <!--nav bar-->
+	<div class="main">
+		<nav>
+			<div class="navbar">
+				<div class="icon">
+					<h2 class="logo">KABCON</h2>
+				</div>
+				<div class="menu">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="About.html">About</a></li>
+						<li><a href="dotor.html">Doctors</a></li>
+						<li><a href="chemist.html">chemist</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<div class="search">&nbsp;&nbsp;&nbsp;&nbsp;
+					<input class=" srch" type="search" name="" placeholder="Type To text">
+					<a href="#"><button class="btn">search</button></a>
+				</div>
+			</div>                                   
+		</nav>
+	</div><br>
+	<!--nav bar end-->
+  <section class="team-section">
+     <div class="container">
+         <div class="row">
+             <div class="section-title">
+                 <h1 class=ee><b>𝔒𝔲𝔯 𝔱𝔢𝔞𝔪</b></h1>
+                 <p><b>║ 🆃🅴🅰🅼🆆🅾🆁🅺 🅱🅴🅶🅸🅽🆂 🅱🆈 🅱🆄🅸🅻🅳🅸🅽🅶 🆃🆁🆄🆂🆃 🅰🅽🅳 🆃🅷🅴 🅾🅽🅻🆈 🆆🅰🆈 🆃🅾 🅳🅾 🆃🅷🅰🆃 🅸🆂 🆃🅾 🅾🆅🅴🆁🅲🅾🅼🅴 🅾🆄🆁 ║<br>║ 🅽🅴🅴🅳 🅵🅾🆁 🅸🅽🆅🆄🅻🅽🅴🆁🅰🅱🅸🅻🅸🆃🆈 ║</b></p>
+             </div>
+         </div>
+         <div class="row">
+             <div class="team-items">
+                  <div class="item">
+                      <img src="img/1.jpeg" alt="team" />
+                      <div class="inner">
+                          <div class="info">
+                               <h5>Vasu Bansal</h5>
+                               <p>Web</p>
+                               <div class="social-links">
+                                   <a href="https://www.facebook.com"><span class="fab fa-facebook"></span></a>
+                                   <a href="https://www.twitter.com"><span class="fab fa-twitter"></span></a>
+                                   <a href="https://www.linkedin.com"><span class="fab fa-linkedin"></span></a>
+                               </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="item">
+                      <img src="img/2.jpeg" alt="team" />
+                      <div class="inner">
+                          <div class="info">
+                               <h5>Tushar Khullar</h5>
+                               <p>Web</p>
+                               <div class="social-links">
+                                   <a href="https://www.facebook.com"><span class="fab fa-facebook"></span></a>
+                                   <a href="https://www.twitter.com"><span class="fab fa-twitter"></span></a>
+                                   <a href="https://www.linkedin.com"><span class="fab fa-linkedin"></span></a>
+                               </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="item">
+                      <img src="img/3.jpeg" alt="team" />
+                      <div class="inner">
+                          <div class="info">
+                               <h5>Ujjwal Aggarwal</h5>
+                               <p>Web</p>
+                               <div class="social-links">
+                                   <a href="https://www.facebook.com"><span class="fab fa-facebook"></span></a>
+                                   <a href="https://www.twitter.com"><span class="fab fa-twitter"></span></a>
+                                   <a href="https://www.linkedin.com"><span class="fab fa-linkedin"></span></a>
+                               </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="item">
+                      <img src="img/4.jpeg" alt="team" />
+                      <div class="inner">
+                          <div class="info">
+                               <h5>Tushar Singla</h5>
+                               <p>Web</p>
+                               <div class="social-links">
+                                   <a href="https://www.facebook.com"><span class="fab fa-facebook"></span></a>
+                                   <a href="https://www.twitter.com"><span class="fab fa-twitter"></span></a>
+                                   <a href="https://www.linkedin.com"><span class="fab fa-linkedin"></span></a>
+                               </div>
+                          </div>
+                      </div>
+                  </div>
+             </div>
+         </div>
+     </div>
+  </section>
+<!--team details end-->
+<!--foot bar-->
+        
+<footer class="footer-area">
+
+	<div class="main1">
+		<div class="footer">
+			<div class="single-footer">
+				<h4>about us</h4>
+				<p>KABCON is a holistic healthcare company that aims to make healthcare accessible and affordable in the country. In order to streamline the functioning of the health industry, we have brought doctors, pharmacists and consumers under one digital ambit.</p>
+				<div class="footer-social">
+					<a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a>
+					<a href="https://www.twitter.com"><i class="fab fa-twitter"></i></a>
+					<a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
+					<a href="https://www.linkedin.com"><i class="fab fa-linkedin-in"></i></a>
+				</div>
+			</div>
+			<div class="single-footer">
+				<h4>quick links</h4>
+				<ul>
+					<li><a href="index.html"><i class="fas fa-chevron-right"></i> home</a></li>
+					<li><a href="About.html"><i class="fas fa-chevron-right"></i> about us</a></li>
+					<li><a href="contact.html"><i class="fas fa-chevron-right"></i> contact us</a></li>
+					<li><a href="login_page.html"><i class="fas fa-chevron-right"></i> login</a></li>
+
+				</ul>
+			</div>
+			<div class="single-footer">
+				<h4>quick links</h4>
+				<ul>
+					<li><a href="dotor.html"><i class="fas fa-chevron-right"></i>Doctors</a></li>
+					<li><a href="chemist.html"><i class="fas fa-chevron-right"></i> chemist</a></li>
+					<li><a href="our_team.html"><i class="fas fa-chevron-right"></i> our team</a></li>
+					<li><a href="login_page.html"><i class="fas fa-chevron-right"></i> login</a></li>
+				</ul>
+			</div>
+			<div class="single-footer">
+				<h4>contact info</h4>
+				<ul>
+					<li><a href=""><i class="fa fa-map-marker-alt"></i> yamuna Street, haryana, India</a></li>
+					<li><a href="tel:91 9728 563 363"><i class="fa fa-mobile-alt"></i> +91 9728 563 363</a></li>
+					<li><a href="mailto:kabsconsulatnt@gmail.com"><i class="fa fa-envelope"></i> kabsconsulatnt@gmail.com</a></li>
+					<li><a href="index.html"><i class="fa fa-globe-europe"></i> www.KABCON.com</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="copy">
+			<p>&copy; 2022 all rights reserved</p>
+		</div>
+	</div>
+</footer>
+<!--foot bar end-->
+</body>
+</html>
